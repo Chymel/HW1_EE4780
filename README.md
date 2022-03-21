@@ -1,7 +1,7 @@
 
 # HW \#1 for EE 4780
 
-Assigned Problem:
+Assigned Problem: \
 ![Homework 1 Assignment](https://i.ibb.co/4wk2tGy/hw1.jpg)
 
 ## Installation
