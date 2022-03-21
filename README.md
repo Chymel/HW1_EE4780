@@ -18,7 +18,7 @@ Install dependencies with pip
 
 Run:
 ```python
-python pickRectROI.py
+python PickRectROI.py
 ```
 Then using your mouse select a region-of-interest \
 Press C to copy the image  
